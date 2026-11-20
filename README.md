@@ -11,9 +11,9 @@
 
 ## Direct Links
 
-- **Kaggle Competition Writeup**: [Read the Competition Writeup *(link TBD — attach public writeup URL)*](https://www.kaggle.com/competitions/nfl-big-data-bowl-2027)
-- **Public Kaggle Notebook**: [`notebooks/submission_writeup_kaggle.ipynb`](notebooks/submission_writeup_kaggle.ipynb) *(link TBD — attach public Kaggle Kernel URL)*
-- **Public Kaggle Source Dataset**: [`kaggle_dataset_src/`](kaggle_dataset_src/) *(link TBD — attach public Kaggle Dataset URL)*
+- **Kaggle Competition Writeup**: [From Track Speed to Route Kinetics — NFL Big Data Bowl 2027](https://www.kaggle.com/competitions/nfl-big-data-bowl-2027/writeups/from-track-speed-to-route-kinetics)
+- **Public Kaggle Notebook**:[From Track Speed to Route Kinetics (Reproducible Kernel)](https://www.kaggle.com/code/vangnguyenvu1503/from-track-speed-to-route-kinetics) · *(local: [`notebooks/submission_writeup_kaggle.ipynb`](notebooks/submission_writeup_kaggle.ipynb))*
+- **Public Kaggle Source Dataset**: [nfl-bdb-2027-wr-route-kinetics-src](https://www.kaggle.com/datasets/vangnguyenvu1503/nfl-bdb-2027-wr-route-kinetics-src) · *(local: [`kaggle_dataset_src/`](kaggle_dataset_src/))*
 
 ---
 
