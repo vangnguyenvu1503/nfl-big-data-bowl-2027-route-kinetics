@@ -1,0 +1,23 @@
+[project]
+name = "nfl-bdb-2027"
+version = "0.1.0"
+description = "NFL Big Data Bowl 2027 project"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "polars",
+    "pandas",
+    "numpy",
+    "scipy",
+    "scikit-learn",
+    "statsmodels",
+    "lightgbm",
+    "matplotlib",
+    "seaborn",
+    "pytest",
+    "ipykernel",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
